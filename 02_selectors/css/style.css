@@ -7,15 +7,15 @@ main {
 }
 
 h1, h2 {
-    color: blue;
-}
-
-p {
-    color: purple;
+    color: darkblue;
 }
 
 p {
     color: red;
+}
+
+p {
+    color: green;
 }
 
 .highlight {
