@@ -1,7 +1,4 @@
-a {
+p {
+    font-size: 64px;
     color: red;
-}
-
-a:visited {
-    color: blue;
 }
